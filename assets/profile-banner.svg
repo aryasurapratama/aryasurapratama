@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Arya Sura Pratama</title>
+  <desc id="desc">Dosen, developer, dan Technology Lead di Bandar Lampung, Indonesia. Pendidikan, riset, dan produk digital.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1120"/>
+      <stop offset="1" stop-color="#142749"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="60" y1="0" x2="1140" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.55" stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#8DA4CB" stroke-opacity="0.055"/>
+    </pattern>
+    <clipPath id="frame">
+      <rect width="1200" height="360" rx="24"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" fill="url(#background)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+    <circle cx="1115" cy="45" r="270" fill="#2563EB" fill-opacity="0.07"/>
+    <circle cx="1115" cy="45" r="190" stroke="#3B82F6" stroke-opacity="0.12"/>
+    <circle cx="1115" cy="45" r="235" stroke="#3B82F6" stroke-opacity="0.08"/>
+    <rect x="60" y="0" width="1080" height="3" rx="1.5" fill="url(#accent)"/>
+
+    <g font-family="Arial, Helvetica, sans-serif">
+      <text x="60" y="72" fill="#67E8F9" font-size="13" font-weight="700" letter-spacing="2.5">DOSEN / DEVELOPER / TECHNOLOGY LEAD</text>
+      <text x="56" y="151" fill="#F8FAFC" font-size="57" font-weight="700" letter-spacing="-1.8">Arya Sura Pratama<tspan fill="#38BDF8">.</tspan></text>
+      <text x="60" y="201" fill="#B8C7DE" font-size="22">Pendidikan, riset, dan produk digital.</text>
+      <rect x="60" y="243" width="32" height="2" rx="1" fill="#22D3EE"/>
+      <text x="60" y="288" fill="#8DA4C4" font-size="12" font-weight="600" letter-spacing="2">BANDAR LAMPUNG, INDONESIA</text>
+    </g>
+
+    <g stroke="#4A6791" stroke-opacity="0.5" stroke-width="1.5">
+      <path d="M805 114H786V246H805"/>
+      <path d="M1000 114H1020V246H1000"/>
+      <path d="M902 143V166M902 215V238"/>
+    </g>
+    <g font-family="Arial, Helvetica, sans-serif">
+      <rect x="810" y="71" width="270" height="72" rx="13" fill="#14243E" stroke="#2B4366"/>
+      <rect x="810" y="71" width="4" height="72" rx="2" fill="#22D3EE"/>
+      <text x="835" y="102" fill="#67E8F9" font-size="11" font-weight="700" letter-spacing="1.5">01 / EDUCATION</text>
+      <text x="835" y="125" fill="#D9E4F4" font-size="15">Berbagi pengetahuan.</text>
+
+      <rect x="838" y="159" width="270" height="72" rx="13" fill="#182D4D" stroke="#365886"/>
+      <rect x="838" y="159" width="4" height="72" rx="2" fill="#60A5FA"/>
+      <text x="863" y="190" fill="#93C5FD" font-size="11" font-weight="700" letter-spacing="1.5">02 / DEVELOPMENT</text>
+      <text x="863" y="213" fill="#D9E4F4" font-size="15">Membangun solusi.</text>
+
+      <rect x="810" y="247" width="270" height="72" rx="13" fill="#14243E" stroke="#2B4366"/>
+      <rect x="810" y="247" width="4" height="72" rx="2" fill="#A78BFA"/>
+      <text x="835" y="278" fill="#C4B5FD" font-size="11" font-weight="700" letter-spacing="1.5">03 / RESEARCH</text>
+      <text x="835" y="301" fill="#D9E4F4" font-size="15">Menjelajahi gagasan.</text>
+    </g>
+  </g>
+</svg>
