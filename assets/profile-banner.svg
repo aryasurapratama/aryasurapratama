@@ -1,59 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">Arya Sura Pratama</title>
-  <desc id="desc">Dosen, developer, dan Technology Lead di Bandar Lampung, Indonesia. Pendidikan, riset, dan produk digital.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Arya Sura Pratama, M.Kom.</title>
+  <desc id="desc">Dosen dan Technology Lead di Bandar Lampung, Indonesia. Pendidikan, riset, dan pengembangan produk digital.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0B1120"/>
-      <stop offset="1" stop-color="#142749"/>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1524"/>
+      <stop offset="1" stop-color="#142A44"/>
     </linearGradient>
-    <linearGradient id="accent" x1="60" y1="0" x2="1140" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#22D3EE"/>
-      <stop offset="0.55" stop-color="#3B82F6"/>
-      <stop offset="1" stop-color="#A78BFA"/>
+    <linearGradient id="accent" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEAD4"/>
+      <stop offset="1" stop-color="#60A5FA"/>
     </linearGradient>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" stroke="#8DA4CB" stroke-opacity="0.055"/>
+      <path d="M40 0H0V40" stroke="#A8C4E5" stroke-opacity="0.045"/>
     </pattern>
-    <clipPath id="frame">
-      <rect width="1200" height="360" rx="24"/>
-    </clipPath>
+    <clipPath id="frame"><rect width="1200" height="280" rx="18"/></clipPath>
   </defs>
   <g clip-path="url(#frame)">
-    <rect width="1200" height="360" fill="url(#background)"/>
-    <rect width="1200" height="360" fill="url(#grid)"/>
-    <circle cx="1115" cy="45" r="270" fill="#2563EB" fill-opacity="0.07"/>
-    <circle cx="1115" cy="45" r="190" stroke="#3B82F6" stroke-opacity="0.12"/>
-    <circle cx="1115" cy="45" r="235" stroke="#3B82F6" stroke-opacity="0.08"/>
-    <rect x="60" y="0" width="1080" height="3" rx="1.5" fill="url(#accent)"/>
-
-    <g font-family="Arial, Helvetica, sans-serif">
-      <text x="60" y="72" fill="#67E8F9" font-size="13" font-weight="700" letter-spacing="2.5">DOSEN / DEVELOPER / TECHNOLOGY LEAD</text>
-      <text x="56" y="151" fill="#F8FAFC" font-size="57" font-weight="700" letter-spacing="-1.8">Arya Sura Pratama<tspan fill="#38BDF8">.</tspan></text>
-      <text x="60" y="201" fill="#B8C7DE" font-size="22">Pendidikan, riset, dan produk digital.</text>
-      <rect x="60" y="243" width="32" height="2" rx="1" fill="#22D3EE"/>
-      <text x="60" y="288" fill="#8DA4C4" font-size="12" font-weight="600" letter-spacing="2">BANDAR LAMPUNG, INDONESIA</text>
+    <rect width="1200" height="280" fill="url(#background)"/>
+    <rect width="1200" height="280" fill="url(#grid)"/>
+    <rect width="1200" height="3" fill="url(#accent)"/>
+    <circle cx="1110" cy="25" r="230" fill="#3B82F6" fill-opacity="0.055"/>
+    <circle cx="1110" cy="25" r="174" stroke="#93C5FD" stroke-opacity="0.08"/>
+    <circle cx="1110" cy="25" r="230" stroke="#93C5FD" stroke-opacity="0.06"/>
+    <g font-family="Arial, Helvetica, DejaVu Sans, sans-serif">
+      <text x="52" y="57" fill="#7DD3C9" font-size="13" font-weight="700" letter-spacing="2.4">PENDIDIKAN / RISET / PENGEMBANGAN</text>
+      <text x="49" y="134" fill="#F8FAFC" font-size="57" font-weight="700" letter-spacing="-1.6">Arya Sura Pratama<tspan fill="#5EEAD4">.</tspan></text>
+      <text x="52" y="177" fill="#C8D5E6" font-size="21">M.Kom. · Dosen &amp; Technology Lead</text>
+      <path d="M52 218H78" stroke="#5EEAD4" stroke-width="2"/>
+      <text x="92" y="223" fill="#9EB3CE" font-size="12" font-weight="600" letter-spacing="1.8">BANDAR LAMPUNG, INDONESIA</text>
     </g>
-
-    <g stroke="#4A6791" stroke-opacity="0.5" stroke-width="1.5">
-      <path d="M805 114H786V246H805"/>
-      <path d="M1000 114H1020V246H1000"/>
-      <path d="M902 143V166M902 215V238"/>
-    </g>
-    <g font-family="Arial, Helvetica, sans-serif">
-      <rect x="810" y="71" width="270" height="72" rx="13" fill="#14243E" stroke="#2B4366"/>
-      <rect x="810" y="71" width="4" height="72" rx="2" fill="#22D3EE"/>
-      <text x="835" y="102" fill="#67E8F9" font-size="11" font-weight="700" letter-spacing="1.5">01 / EDUCATION</text>
-      <text x="835" y="125" fill="#D9E4F4" font-size="15">Berbagi pengetahuan.</text>
-
-      <rect x="838" y="159" width="270" height="72" rx="13" fill="#182D4D" stroke="#365886"/>
-      <rect x="838" y="159" width="4" height="72" rx="2" fill="#60A5FA"/>
-      <text x="863" y="190" fill="#93C5FD" font-size="11" font-weight="700" letter-spacing="1.5">02 / DEVELOPMENT</text>
-      <text x="863" y="213" fill="#D9E4F4" font-size="15">Membangun solusi.</text>
-
-      <rect x="810" y="247" width="270" height="72" rx="13" fill="#14243E" stroke="#2B4366"/>
-      <rect x="810" y="247" width="4" height="72" rx="2" fill="#A78BFA"/>
-      <text x="835" y="278" fill="#C4B5FD" font-size="11" font-weight="700" letter-spacing="1.5">03 / RESEARCH</text>
-      <text x="835" y="301" fill="#D9E4F4" font-size="15">Menjelajahi gagasan.</text>
+    <path d="M830 48V232" stroke="#87ABD6" stroke-opacity="0.18"/>
+    <g stroke-width="1.5">
+      <path d="M1015 70L946 190H1084L1015 70Z" stroke="#5EEAD4" stroke-opacity="0.25"/>
+      <path d="M1015 70V150M946 190L1015 150L1084 190" stroke="#60A5FA" stroke-opacity="0.3"/>
+      <circle cx="1015" cy="150" r="65" stroke="#93C5FD" stroke-opacity="0.13"/>
+      <circle cx="1015" cy="150" r="92" stroke="#93C5FD" stroke-opacity="0.07"/>
+      <circle cx="1015" cy="70" r="19" fill="#102C38" stroke="#5EEAD4" stroke-opacity="0.65"/>
+      <circle cx="946" cy="190" r="19" fill="#182C4A" stroke="#60A5FA" stroke-opacity="0.65"/>
+      <circle cx="1084" cy="190" r="19" fill="#182C4A" stroke="#60A5FA" stroke-opacity="0.65"/>
+      <path d="M1007 66L1015 62L1023 66V75L1015 71L1007 75V66ZM1015 62V71" stroke="#99F6E4" stroke-linejoin="round"/>
+      <path d="M943 183L936 190L943 197M949 183L956 190L949 197" stroke="#BFDBFE" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="1084" cy="187" r="5" stroke="#BFDBFE"/>
+      <path d="M1077 198H1091M1084 192V198" stroke="#BFDBFE" stroke-linecap="round"/>
+      <circle cx="1015" cy="150" r="4" fill="#5EEAD4"/>
     </g>
   </g>
 </svg>

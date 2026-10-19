@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="320" viewBox="0 0 600 320" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Arya Sura Pratama, M.Kom.</title>
+  <desc id="desc">Dosen dan Technology Lead di Bandar Lampung, Indonesia. Pendidikan, riset, dan pengembangan produk digital.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="600" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1524"/><stop offset="1" stop-color="#142A44"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEAD4"/><stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#A8C4E5" stroke-opacity="0.045"/>
+    </pattern>
+    <clipPath id="frame"><rect width="600" height="320" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="600" height="320" fill="url(#background)"/>
+    <rect width="600" height="320" fill="url(#grid)"/>
+    <rect width="600" height="3" fill="url(#accent)"/>
+    <circle cx="580" cy="40" r="190" fill="#3B82F6" fill-opacity="0.055"/>
+    <circle cx="580" cy="40" r="140" stroke="#93C5FD" stroke-opacity="0.1"/>
+    <circle cx="580" cy="40" r="190" stroke="#93C5FD" stroke-opacity="0.07"/>
+    <g font-family="Arial, Helvetica, DejaVu Sans, sans-serif">
+      <text x="36" y="47" fill="#7DD3C9" font-size="12" font-weight="700" letter-spacing="1.7">PENDIDIKAN / RISET / PENGEMBANGAN</text>
+      <text x="32" y="126" fill="#F8FAFC" font-size="64" font-weight="700" letter-spacing="-1.8">Arya Sura</text>
+      <text x="32" y="195" fill="#F8FAFC" font-size="64" font-weight="700" letter-spacing="-1.8">Pratama<tspan fill="#5EEAD4">.</tspan></text>
+      <text x="36" y="243" fill="#C8D5E6" font-size="20">M.Kom. · Dosen &amp; Technology Lead</text>
+      <path d="M36 282H59" stroke="#5EEAD4" stroke-width="2"/>
+      <text x="72" y="286" fill="#9EB3CE" font-size="12" font-weight="600" letter-spacing="1.2">BANDAR LAMPUNG, INDONESIA</text>
+    </g>
+  </g>
+</svg>
